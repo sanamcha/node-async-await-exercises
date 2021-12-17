@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: green;
+  }
+
+
+#show-card {
+    margin-top: 90px;
+  }
+
+  button{
+      padding: 20px;
+  }
+
+
+  button:hover {
+    cursor: pointer;
+   
+  }
+
+  #show-card > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
